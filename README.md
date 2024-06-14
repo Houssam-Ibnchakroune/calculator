@@ -1,2 +1,2 @@
 # calculator
-basic code calculator using tkinter
+basic code scientific calculator using tkinter
