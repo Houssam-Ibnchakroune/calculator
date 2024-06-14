@@ -26,7 +26,7 @@ def button_calculate() :
     except ZeroDivisionError :
         var.set ("ERROR division by zero")
     except Exception :
-        var.set(f"ERROR ")
+        var.set(f"ERROR ") #si il y'a un erreur
     
 def delete_button() :
     entry1.delete(entry1.index(INSERT)-1) 
